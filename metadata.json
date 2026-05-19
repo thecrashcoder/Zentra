@@ -1,0 +1,6 @@
+{
+  "name": "Neon Hexagon Mesh",
+  "description": "A dark charcoal background with a metallic hexagon mesh that glows neon when hovered.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
